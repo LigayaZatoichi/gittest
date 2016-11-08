@@ -1,2 +1,4 @@
 Hello. This is an example text file for training purposes. This text file will be used
 for learning Git.
+
+I just made my first commit.
