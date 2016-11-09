@@ -15,12 +15,15 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+<<<<<<< HEAD
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+=======
+>>>>>>> feature/linkscontent
 	"\/stylesheets\/main.css": {
 		"aP": 0,
 		"bl": 0,
