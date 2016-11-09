@@ -9,24 +9,23 @@
 	],
 "creatorBuild": "25444",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
+	"\/body.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/body.txt",
+		"oF": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
-		},
-	"\/sass\/main.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/main.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
 		},
 	"\/stylesheets\/main.css": {
 		"aP": 0,
@@ -37,6 +36,19 @@
 		"oAP": "\/stylesheets\/main-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/stylesheets\/sass\/main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/css\/main.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		}
 	},
 "hooks": [
